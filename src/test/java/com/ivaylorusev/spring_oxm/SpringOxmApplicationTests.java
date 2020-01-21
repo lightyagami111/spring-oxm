@@ -1,4 +1,4 @@
-package com.msIvaylo.springOxm;
+package com.ivaylorusev.spring_oxm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
